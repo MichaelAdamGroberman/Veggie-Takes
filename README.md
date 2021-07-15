@@ -3,4 +3,4 @@
 
 
 #User Story
-As a user, I want to get the reviews for one of the top 10 trending movies on a movie web-site. 
+As a user, I want to get the reviews for one of the top 10 trending movies from a movie web-application. 
