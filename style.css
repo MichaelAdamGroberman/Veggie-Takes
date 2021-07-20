@@ -1,0 +1,21 @@
+
+.card:hover{
+
+    position: relative;
+    top: -25px;
+    left: -3px;
+    width: 300px;
+    height:auto ;
+    display: block;
+    z-index: 999;
+    background-color: silver;
+    color: black;
+    cursor: pointer;
+
+
+
+
+
+
+
+}
